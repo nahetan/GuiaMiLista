@@ -16,8 +16,8 @@
     <display-name lang="es">04 | STAR COMEDY</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="05 | STAR FAMILY">
-    <display-name lang="es">05 | STAR FAMILY</display-name>
+  <channel id="101 | STAR FUN">
+    <display-name lang="es">101 | STAR FUN</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="99 | STAR HITS">
@@ -60,6 +60,10 @@
     <display-name lang="es">17 | HBO MUND</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="15 | HBO SIGNATURE">
+    <display-name lang="es">15 | HBO SIGNATURE</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="16 | HBO POP">
     <display-name lang="es">16 | HBO POP</display-name>
     <url>http://www.gatotv.com</url>
@@ -68,16 +72,12 @@
     <display-name lang="es">56 | FX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="47 | FXM">
-    <display-name lang="es">47 | FXM</display-name>
+  <channel id="118 | FXM MX UHD">
+    <display-name lang="es">118 | FXM MX UHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="18 | TNT">
     <display-name lang="es">18 | TNT</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="58 | AMC">
-    <display-name lang="es">58 | AMC</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210328000700 -0600" stop="20210328020600 -0600" channel="01 | STAR CHANNEL">
@@ -1039,130 +1039,130 @@
   <programme start="20210404233300 -0500" stop="20210405012100 -0500" channel="04 | STAR COMEDY">
     <title lang="es">¡Mujeres al Ataque</title>
   </programme>
-  <programme start="20210328005100 -0600" stop="20210328022500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328005100 -0600" stop="20210328022500 -0600" channel="101 | STAR FUN">
     <title lang="es">Al Diablo Con El Diablo</title>
   </programme>
-  <programme start="20210328022500 -0600" stop="20210328040800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328022500 -0600" stop="20210328040800 -0600" channel="101 | STAR FUN">
     <title lang="es">El rey Escorpión 5 El libro de las almas</title>
   </programme>
-  <programme start="20210328040800 -0600" stop="20210328053400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328040800 -0600" stop="20210328053400 -0600" channel="101 | STAR FUN">
     <title lang="es">Mini espías y los ladrones del tiempo 4</title>
   </programme>
-  <programme start="20210328053400 -0600" stop="20210328074900 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328053400 -0600" stop="20210328074900 -0600" channel="101 | STAR FUN">
     <title lang="es">Nada es lo que parece</title>
   </programme>
-  <programme start="20210328074900 -0600" stop="20210328092400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328074900 -0600" stop="20210328092400 -0600" channel="101 | STAR FUN">
     <title lang="es">Encontrando la navidad</title>
   </programme>
-  <programme start="20210328092400 -0600" stop="20210328110400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328092400 -0600" stop="20210328110400 -0600" channel="101 | STAR FUN">
     <title lang="es">La Navidad de Madea</title>
   </programme>
-  <programme start="20210328110400 -0600" stop="20210328123500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328110400 -0600" stop="20210328123500 -0600" channel="101 | STAR FUN">
     <title lang="es">La Familia Monster</title>
   </programme>
-  <programme start="20210328123500 -0600" stop="20210328140500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328123500 -0600" stop="20210328140500 -0600" channel="101 | STAR FUN">
     <title lang="es">Salvados, que el cielo los ayude</title>
   </programme>
-  <programme start="20210328140500 -0600" stop="20210328155500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328140500 -0600" stop="20210328155500 -0600" channel="101 | STAR FUN">
     <title lang="es">27 Bodas</title>
   </programme>
-  <programme start="20210328155500 -0600" stop="20210328173500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328155500 -0600" stop="20210328173500 -0600" channel="101 | STAR FUN">
     <title lang="es">Año Bisiesto</title>
   </programme>
-  <programme start="20210328173500 -0600" stop="20210328190100 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328173500 -0600" stop="20210328190100 -0600" channel="101 | STAR FUN">
     <title lang="es">El Lorax</title>
   </programme>
-  <programme start="20210328190100 -0600" stop="20210328203500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328190100 -0600" stop="20210328203500 -0600" channel="101 | STAR FUN">
     <title lang="es">Al Diablo Con El Diablo</title>
   </programme>
-  <programme start="20210328203500 -0600" stop="20210328220000 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328203500 -0600" stop="20210328220000 -0600" channel="101 | STAR FUN">
     <title lang="es">El Grinch (2018)</title>
   </programme>
-  <programme start="20210328220000 -0600" stop="20210328233000 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328220000 -0600" stop="20210328233000 -0600" channel="101 | STAR FUN">
     <title lang="es">La Pantera Rosa</title>
   </programme>
-  <programme start="20210328233000 -0600" stop="20210329010500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210328233000 -0600" stop="20210329010500 -0600" channel="101 | STAR FUN">
     <title lang="es">La Pantera Rosa 2</title>
   </programme>
-  <programme start="20210329233000 -0600" stop="20210330010500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210329233000 -0600" stop="20210330010500 -0600" channel="101 | STAR FUN">
     <title lang="es">La Pantera Rosa 2</title>
   </programme>
-  <programme start="20210330010500 -0600" stop="20210330024500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330010500 -0600" stop="20210330024500 -0600" channel="101 | STAR FUN">
     <title lang="es">Drillbit Taylor: Guardaespaldas escolar</title>
   </programme>
-  <programme start="20210330024500 -0600" stop="20210330043100 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330024500 -0600" stop="20210330043100 -0600" channel="101 | STAR FUN">
     <title lang="es">Jojo Rabbit</title>
   </programme>
-  <programme start="20210330043100 -0600" stop="20210330065200 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330043100 -0600" stop="20210330065200 -0600" channel="101 | STAR FUN">
     <title lang="es">Campeones (2018) – España</title>
   </programme>
-  <programme start="20210330065200 -0600" stop="20210330082800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330065200 -0600" stop="20210330082800 -0600" channel="101 | STAR FUN">
     <title lang="es">Liberal Arts</title>
   </programme>
-  <programme start="20210330082800 -0600" stop="20210330101100 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330082800 -0600" stop="20210330101100 -0600" channel="101 | STAR FUN">
     <title lang="es">Espejito, espejito</title>
   </programme>
-  <programme start="20210330101100 -0600" stop="20210330114000 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330101100 -0600" stop="20210330114000 -0600" channel="101 | STAR FUN">
     <title lang="es">Guerra de comida</title>
   </programme>
-  <programme start="20210330114000 -0600" stop="20210330131100 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330114000 -0600" stop="20210330131100 -0600" channel="101 | STAR FUN">
     <title lang="es">Fluke, memorias de otra vida</title>
   </programme>
-  <programme start="20210330131100 -0600" stop="20210330151400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330131100 -0600" stop="20210330151400 -0600" channel="101 | STAR FUN">
     <title lang="es">Campeones (2018) – España</title>
   </programme>
-  <programme start="20210330151400 -0600" stop="20210330163800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330151400 -0600" stop="20210330163800 -0600" channel="101 | STAR FUN">
     <title lang="es">Mini espías y los ladrones del tiempo 4</title>
   </programme>
-  <programme start="20210330163800 -0600" stop="20210330180800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330163800 -0600" stop="20210330180800 -0600" channel="101 | STAR FUN">
     <title lang="es">JL Ranch 2</title>
   </programme>
-  <programme start="20210330180800 -0600" stop="20210330193300 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330180800 -0600" stop="20210330193300 -0600" channel="101 | STAR FUN">
     <title lang="es">Love Under the Olive Tree</title>
   </programme>
-  <programme start="20210330193300 -0600" stop="20210330210000 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330193300 -0600" stop="20210330210000 -0600" channel="101 | STAR FUN">
     <title lang="es">Los Locos Addams (2019)</title>
   </programme>
-  <programme start="20210330210000 -0600" stop="20210330223700 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330210000 -0600" stop="20210330223700 -0600" channel="101 | STAR FUN">
     <title lang="es">Sonic: La Película</title>
   </programme>
-  <programme start="20210330223700 -0600" stop="20210331000500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210330223700 -0600" stop="20210331000500 -0600" channel="101 | STAR FUN">
     <title lang="es">Gato con botas</title>
   </programme>
-  <programme start="20210331000500 -0600" stop="20210331015400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331000500 -0600" stop="20210331015400 -0600" channel="101 | STAR FUN">
     <title lang="es">27 Bodas</title>
   </programme>
-  <programme start="20210331015400 -0600" stop="20210331033700 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331015400 -0600" stop="20210331033700 -0600" channel="101 | STAR FUN">
     <title lang="es">Jugada perfecta</title>
   </programme>
-  <programme start="20210331033700 -0600" stop="20210331050500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331033700 -0600" stop="20210331050500 -0600" channel="101 | STAR FUN">
     <title lang="es">San Valentín en los viñedos</title>
   </programme>
-  <programme start="20210331050500 -0600" stop="20210331065600 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331050500 -0600" stop="20210331065600 -0600" channel="101 | STAR FUN">
     <title lang="es">The Last Bridesmaid</title>
   </programme>
-  <programme start="20210331065600 -0600" stop="20210331083800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331065600 -0600" stop="20210331083800 -0600" channel="101 | STAR FUN">
     <title lang="es">La Navidad de Madea</title>
   </programme>
-  <programme start="20210331083800 -0600" stop="20210331102000 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331083800 -0600" stop="20210331102000 -0600" channel="101 | STAR FUN">
     <title lang="es">Espejito, espejito</title>
   </programme>
-  <programme start="20210331102000 -0600" stop="20210331114600 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331102000 -0600" stop="20210331114600 -0600" channel="101 | STAR FUN">
     <title lang="es">Mini espías y los ladrones del tiempo 4</title>
   </programme>
-  <programme start="20210331114600 -0600" stop="20210331131500 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331114600 -0600" stop="20210331131500 -0600" channel="101 | STAR FUN">
     <title lang="es">Guerra de comida</title>
   </programme>
-  <programme start="20210331131500 -0600" stop="20210331142800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331131500 -0600" stop="20210331142800 -0600" channel="101 | STAR FUN">
     <title lang="es">Thor historias de Asgard</title>
   </programme>
-  <programme start="20210331142800 -0600" stop="20210331160400 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331142800 -0600" stop="20210331160400 -0600" channel="101 | STAR FUN">
     <title lang="es">Encontrando la navidad</title>
   </programme>
-  <programme start="20210331160400 -0600" stop="20210331173800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331160400 -0600" stop="20210331173800 -0600" channel="101 | STAR FUN">
     <title lang="es">La Familia Monster</title>
   </programme>
-  <programme start="20210331173800 -0600" stop="20210331191800 -0600" channel="05 | STAR FAMILY">
+  <programme start="20210331173800 -0600" stop="20210331191800 -0600" channel="101 | STAR FUN">
     <title lang="es">Jugada perfecta</title>
   </programme>
   <programme start="20210328005500 -0600" stop="20210328024000 -0600" channel="99 | STAR HITS">
@@ -3419,6 +3419,381 @@
   <programme start="20210404225000 -0600" stop="20210405001500 -0600" channel="17 | HBO MUND">
     <title lang="es">Morgue</title>
   </programme>
+  <programme start="20210328012000 -0600" stop="20210328032200 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Loco, no demente</title>
+  </programme>
+  <programme start="20210328032200 -0600" stop="20210328045000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La Fiebre</title>
+  </programme>
+  <programme start="20210328045000 -0600" stop="20210328063000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Siempre, Luis</title>
+  </programme>
+  <programme start="20210328063000 -0600" stop="20210328083000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Boicot</title>
+  </programme>
+  <programme start="20210328083000 -0600" stop="20210328093500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Q: Into the Storm</title>
+  </programme>
+  <programme start="20210328093500 -0600" stop="20210328104000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Q: Into the Storm</title>
+  </programme>
+  <programme start="20210328104000 -0600" stop="20210328122000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Los últimos días</title>
+  </programme>
+  <programme start="20210328122000 -0600" stop="20210328133000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Whitmer Thomas El chico</title>
+  </programme>
+  <programme start="20210328133000 -0600" stop="20210328141500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Diarios del COVID, NYC</title>
+  </programme>
+  <programme start="20210328141500 -0600" stop="20210328152000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Chernobyl</title>
+  </programme>
+  <programme start="20210328152000 -0600" stop="20210328163000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Chernobyl</title>
+  </programme>
+  <programme start="20210328163000 -0600" stop="20210328173500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Chernobyl</title>
+  </programme>
+  <programme start="20210328173500 -0600" stop="20210328184500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Chernobyl</title>
+  </programme>
+  <programme start="20210328184500 -0600" stop="20210328200000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Chernobyl</title>
+  </programme>
+  <programme start="20210328200000 -0600" stop="20210328215500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Mala educación</title>
+  </programme>
+  <programme start="20210328215500 -0600" stop="20210329000000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Detrás del candelabro</title>
+  </programme>
+  <programme start="20210329000000 -0600" stop="20210329013500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Buzz</title>
+  </programme>
+  <programme start="20210329013500 -0600" stop="20210329034500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Como gustéis</title>
+  </programme>
+  <programme start="20210329034500 -0600" stop="20210329045000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Te amo, ahora muere (Parte 1)</title>
+  </programme>
+  <programme start="20210329045000 -0600" stop="20210329061500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Te amo, ahora muere (Parte 2)</title>
+  </programme>
+  <programme start="20210329061500 -0600" stop="20210329080000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Esplendor americano</title>
+  </programme>
+  <programme start="20210329080000 -0600" stop="20210329093500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Cuál es mi nombre Muhammad A</title>
+  </programme>
+  <programme start="20210329093500 -0600" stop="20210329110500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Cuál es mi nombre Muhammad A</title>
+  </programme>
+  <programme start="20210329110500 -0600" stop="20210329130000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Confirmación</title>
+  </programme>
+  <programme start="20210329130000 -0600" stop="20210329134000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329134000 -0600" stop="20210329142000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329142000 -0600" stop="20210329150500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329150500 -0600" stop="20210329155500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329155500 -0600" stop="20210329163600 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329163600 -0600" stop="20210329171800 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329171800 -0600" stop="20210329175800 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329175800 -0600" stop="20210329184000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329184000 -0600" stop="20210329192000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329192000 -0600" stop="20210329200500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Curb Your Enthusiasm</title>
+  </programme>
+  <programme start="20210329200500 -0600" stop="20210329211500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Q: Into the Storm</title>
+  </programme>
+  <programme start="20210329211500 -0600" stop="20210329222500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Q: Into the Storm</title>
+  </programme>
+  <programme start="20210329222500 -0600" stop="20210329232000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La zona</title>
+  </programme>
+  <programme start="20210329232000 -0600" stop="20210330005500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Tiger</title>
+  </programme>
+  <programme start="20210330232000 -0600" stop="20210331005500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Tiger</title>
+  </programme>
+  <programme start="20210331005500 -0600" stop="20210331024000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Tiger</title>
+  </programme>
+  <programme start="20210331024000 -0600" stop="20210331044500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Detrás del candelabro</title>
+  </programme>
+  <programme start="20210331044500 -0600" stop="20210331052000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Videos caseros</title>
+  </programme>
+  <programme start="20210331052000 -0600" stop="20210331074000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">El Mago De Las Mentiras</title>
+  </programme>
+  <programme start="20210331074000 -0600" stop="20210331094500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Robin Williams Entre en mi</title>
+  </programme>
+  <programme start="20210331094500 -0600" stop="20210331131000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Los últimos días</title>
+  </programme>
+  <programme start="20210331131000 -0600" stop="20210331153000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">No Conoces A Jack</title>
+  </programme>
+  <programme start="20210331153000 -0600" stop="20210331160500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331160500 -0600" stop="20210331164000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331164000 -0600" stop="20210331171000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331171000 -0600" stop="20210331174500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331174500 -0600" stop="20210331182000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331182000 -0600" stop="20210331185500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331185500 -0600" stop="20210331192500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331192500 -0600" stop="20210331200000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Ballers</title>
+  </programme>
+  <programme start="20210331200000 -0600" stop="20210331205500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La peste</title>
+  </programme>
+  <programme start="20210331205500 -0600" stop="20210331223000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Compartir</title>
+  </programme>
+  <programme start="20210331223000 -0600" stop="20210401003000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">El cuento</title>
+  </programme>
+  <programme start="20210401003000 -0600" stop="20210401015500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Hijas robadas</title>
+  </programme>
+  <programme start="20210401015500 -0600" stop="20210401034500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">El Ciudadano X</title>
+  </programme>
+  <programme start="20210401034500 -0600" stop="20210401051000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La Operación de Newburgh</title>
+  </programme>
+  <programme start="20210401051000 -0600" stop="20210401065000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Los últimos días</title>
+  </programme>
+  <programme start="20210401065000 -0600" stop="20210401082500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Mystery of D.B. Cooper</title>
+  </programme>
+  <programme start="20210401082500 -0600" stop="20210401102500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Boicot</title>
+  </programme>
+  <programme start="20210401102500 -0600" stop="20210401110800 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Burning Ojai Our fire story</title>
+  </programme>
+  <programme start="20210401110800 -0600" stop="20210401130000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Mala educación</title>
+  </programme>
+  <programme start="20210401130000 -0600" stop="20210401150000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones La última</title>
+  </programme>
+  <programme start="20210401150000 -0600" stop="20210401154000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401154000 -0600" stop="20210401161500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401161500 -0600" stop="20210401165000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401165000 -0600" stop="20210401173000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401173000 -0600" stop="20210401180500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401180500 -0600" stop="20210401184000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401184000 -0600" stop="20210401192000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401192000 -0600" stop="20210401200000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210401200000 -0600" stop="20210401214000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Paterno</title>
+  </programme>
+  <programme start="20210401214000 -0600" stop="20210401224500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Real time with Bill Maher</title>
+  </programme>
+  <programme start="20210401224500 -0600" stop="20210402003000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Esplendor americano</title>
+  </programme>
+  <programme start="20210402003000 -0600" stop="20210402013500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Te amo, ahora muere (Parte 1)</title>
+  </programme>
+  <programme start="20210402013500 -0600" stop="20210402030000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Te amo, ahora muere (Parte 2)</title>
+  </programme>
+  <programme start="20210402030000 -0600" stop="20210402050000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Boicot</title>
+  </programme>
+  <programme start="20210402050000 -0600" stop="20210402070000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Loco, no demente</title>
+  </programme>
+  <programme start="20210402070000 -0600" stop="20210402073400 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402073400 -0600" stop="20210402080600 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402080600 -0600" stop="20210402084000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402084000 -0600" stop="20210402091400 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402091400 -0600" stop="20210402094700 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402094700 -0600" stop="20210402102100 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">The Passion</title>
+  </programme>
+  <programme start="20210402102100 -0600" stop="20210402110500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Diarios del COVID, NYC</title>
+  </programme>
+  <programme start="20210402110500 -0600" stop="20210402130000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Confirmación</title>
+  </programme>
+  <programme start="20210402130000 -0600" stop="20210402134000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402134000 -0600" stop="20210402141500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402141500 -0600" stop="20210402145000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402145000 -0600" stop="20210402153000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402153000 -0600" stop="20210402161000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402161000 -0600" stop="20210402164500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402164500 -0600" stop="20210402172000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402172000 -0600" stop="20210402180000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Barry</title>
+  </programme>
+  <programme start="20210402180000 -0600" stop="20210402190000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210402190000 -0600" stop="20210402200500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210402200500 -0600" stop="20210402211000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210402211000 -0600" stop="20210402220000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La zona</title>
+  </programme>
+  <programme start="20210402220000 -0600" stop="20210402234000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">El día que el deporte</title>
+  </programme>
+  <programme start="20210402234000 -0600" stop="20210403003500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">La peste</title>
+  </programme>
+  <programme start="20210403003500 -0600" stop="20210403022500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Paterno</title>
+  </programme>
+  <programme start="20210403022500 -0600" stop="20210403040000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Tiger</title>
+  </programme>
+  <programme start="20210403040000 -0600" stop="20210403044500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Tiger</title>
+  </programme>
+  <programme start="20210403044500 -0600" stop="20210403060000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Lil Rel Howery En vivo</title>
+  </programme>
+  <programme start="20210403060000 -0600" stop="20210403070000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403070000 -0600" stop="20210403080000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403080000 -0600" stop="20210403085000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403085000 -0600" stop="20210403095500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403095500 -0600" stop="20210403105000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403105000 -0600" stop="20210403115500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403115500 -0600" stop="20210403125500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403125500 -0600" stop="20210403140000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403140000 -0600" stop="20210403150000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403150000 -0600" stop="20210403160500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403160500 -0600" stop="20210403170000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403170000 -0600" stop="20210403180000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Roma</title>
+  </programme>
+  <programme start="20210403180000 -0600" stop="20210403190000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210403190000 -0600" stop="20210403201000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210403201000 -0600" stop="20210403211000 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Game of Thrones</title>
+  </programme>
+  <programme start="20210403211000 -0600" stop="20210403235500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Hemingway Y Gellhorn</title>
+  </programme>
+  <programme start="20210403235500 -0600" stop="20210404014500 -0600" channel="15 | HBO SIGNATURE">
+    <title lang="es">Bernard y Doris</title>
+  </programme>
+  <programme start="20210404235500 -0500" stop="20210405014500 -0500" channel="15 | HBO SIGNATURE">
+    <title lang="es">Bernard y Doris</title>
+  </programme>
   <programme start="20210328004700 -0600" stop="20210328024300 -0600" channel="16 | HBO POP">
     <title lang="es">American Pie El reencuentro</title>
   </programme>
@@ -3633,44 +4008,44 @@
     <title lang="es">Una loca aventura medieval</title>
     <desc lang="es">-- Changed stoptime! --.(n)</desc>
   </programme>
-  <programme start="20210404030000 -0500" stop="20210404041000 -0500" channel="16 | HBO POP">
+  <programme start="20210404030000 -0600" stop="20210404041000 -0600" channel="16 | HBO POP">
     <title lang="es">Un perdedor sin ilusiones</title>
     <desc lang="es">-- Changed starttime! --.(n)</desc>
   </programme>
-  <programme start="20210404041000 -0500" stop="20210404051000 -0500" channel="16 | HBO POP">
+  <programme start="20210404041000 -0600" stop="20210404051000 -0600" channel="16 | HBO POP">
     <title lang="es">Michelle Wolf dama agradable</title>
   </programme>
-  <programme start="20210404051000 -0500" stop="20210404062500 -0500" channel="16 | HBO POP">
+  <programme start="20210404051000 -0600" stop="20210404062500 -0600" channel="16 | HBO POP">
     <title lang="es">Hank y Asha</title>
   </programme>
-  <programme start="20210404062500 -0500" stop="20210404081500 -0500" channel="16 | HBO POP">
+  <programme start="20210404062500 -0600" stop="20210404081500 -0600" channel="16 | HBO POP">
     <title lang="es">El comienzo de la navidad</title>
   </programme>
-  <programme start="20210404081500 -0500" stop="20210404101000 -0500" channel="16 | HBO POP">
+  <programme start="20210404081500 -0600" stop="20210404101000 -0600" channel="16 | HBO POP">
     <title lang="es">Mi nuevo jefe</title>
   </programme>
-  <programme start="20210404101000 -0500" stop="20210404115000 -0500" channel="16 | HBO POP">
+  <programme start="20210404101000 -0600" stop="20210404115000 -0600" channel="16 | HBO POP">
     <title lang="es">La Mejor de mis Bodas</title>
   </programme>
-  <programme start="20210404115000 -0500" stop="20210404140000 -0500" channel="16 | HBO POP">
+  <programme start="20210404115000 -0600" stop="20210404140000 -0600" channel="16 | HBO POP">
     <title lang="es">Amor a colores</title>
   </programme>
-  <programme start="20210404140000 -0500" stop="20210404153500 -0500" channel="16 | HBO POP">
+  <programme start="20210404140000 -0600" stop="20210404153500 -0600" channel="16 | HBO POP">
     <title lang="es">Un hogar ideal</title>
   </programme>
-  <programme start="20210404153500 -0500" stop="20210404172000 -0500" channel="16 | HBO POP">
+  <programme start="20210404153500 -0600" stop="20210404172000 -0600" channel="16 | HBO POP">
     <title lang="es">Un loco fin de semana</title>
   </programme>
-  <programme start="20210404172000 -0500" stop="20210404192000 -0500" channel="16 | HBO POP">
+  <programme start="20210404172000 -0600" stop="20210404192000 -0600" channel="16 | HBO POP">
     <title lang="es">Ajuste de cuentas</title>
   </programme>
-  <programme start="20210404192000 -0500" stop="20210404210000 -0500" channel="16 | HBO POP">
+  <programme start="20210404192000 -0600" stop="20210404210000 -0600" channel="16 | HBO POP">
     <title lang="es">Música, amigos y fiesta</title>
   </programme>
-  <programme start="20210404210000 -0500" stop="20210404224000 -0500" channel="16 | HBO POP">
+  <programme start="20210404210000 -0600" stop="20210404224000 -0600" channel="16 | HBO POP">
     <title lang="es">Cuando apareciste tú</title>
   </programme>
-  <programme start="20210404224000 -0500" stop="20210405001000 -0500" channel="16 | HBO POP">
+  <programme start="20210404224000 -0600" stop="20210405001000 -0600" channel="16 | HBO POP">
     <title lang="es">Bienvenidos a mi mundo</title>
   </programme>
   <programme start="20210328002900 -0600" stop="20210328022700 -0600" channel="56 | FX">
@@ -3943,202 +4318,202 @@
   <programme start="20210331170900 -0600" stop="20210331195000 -0600" channel="56 | FX">
     <title lang="es">Hombre en llamas</title>
   </programme>
-  <programme start="20210328002900 -0600" stop="20210328015100 -0600" channel="47 | FXM">
+  <programme start="20210328002900 -0600" stop="20210328015100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Debajo</title>
   </programme>
-  <programme start="20210328015100 -0600" stop="20210328034700 -0600" channel="47 | FXM">
+  <programme start="20210328015100 -0600" stop="20210328034700 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La fuga de Alcatraz</title>
   </programme>
-  <programme start="20210328034700 -0600" stop="20210328060200 -0600" channel="47 | FXM">
+  <programme start="20210328034700 -0600" stop="20210328060200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">K-19 The Widowmaker</title>
   </programme>
-  <programme start="20210328060200 -0600" stop="20210328075200 -0600" channel="47 | FXM">
+  <programme start="20210328060200 -0600" stop="20210328075200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20210328075200 -0600" stop="20210328092700 -0600" channel="47 | FXM">
+  <programme start="20210328075200 -0600" stop="20210328092700 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La diabla</title>
   </programme>
-  <programme start="20210328092700 -0600" stop="20210328110900 -0600" channel="47 | FXM">
+  <programme start="20210328092700 -0600" stop="20210328110900 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Salvaje Bill</title>
   </programme>
-  <programme start="20210328110900 -0600" stop="20210328132000 -0600" channel="47 | FXM">
+  <programme start="20210328110900 -0600" stop="20210328132000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Indiana Jones y el reino</title>
   </programme>
-  <programme start="20210328132000 -0600" stop="20210328150800 -0600" channel="47 | FXM">
+  <programme start="20210328132000 -0600" stop="20210328150800 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Los Pequeños Focker</title>
   </programme>
-  <programme start="20210328150800 -0600" stop="20210328165700 -0600" channel="47 | FXM">
+  <programme start="20210328150800 -0600" stop="20210328165700 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La señal</title>
   </programme>
-  <programme start="20210328165700 -0600" stop="20210328183100 -0600" channel="47 | FXM">
+  <programme start="20210328165700 -0600" stop="20210328183100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La Nave de la Muerte</title>
   </programme>
-  <programme start="20210328183100 -0600" stop="20210328210000 -0600" channel="47 | FXM">
+  <programme start="20210328183100 -0600" stop="20210328210000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">The hulk</title>
   </programme>
-  <programme start="20210328210000 -0600" stop="20210328231200 -0600" channel="47 | FXM">
+  <programme start="20210328210000 -0600" stop="20210328231200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dragón Rojo</title>
   </programme>
-  <programme start="20210328231200 -0600" stop="20210329010300 -0600" channel="47 | FXM">
+  <programme start="20210328231200 -0600" stop="20210329010300 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Cementerio de animales</title>
   </programme>
-  <programme start="20210329231200 -0600" stop="20210330010300 -0600" channel="47 | FXM">
+  <programme start="20210329231200 -0600" stop="20210330010300 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Cementerio de animales</title>
   </programme>
-  <programme start="20210330010300 -0600" stop="20210330024400 -0600" channel="47 | FXM">
+  <programme start="20210330010300 -0600" stop="20210330024400 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Candyman</title>
   </programme>
-  <programme start="20210330024400 -0600" stop="20210330043000 -0600" channel="47 | FXM">
+  <programme start="20210330024400 -0600" stop="20210330043000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Prisionero de guerra 3</title>
   </programme>
-  <programme start="20210330043000 -0600" stop="20210330055800 -0600" channel="47 | FXM">
+  <programme start="20210330043000 -0600" stop="20210330055800 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Recuerdos</title>
   </programme>
-  <programme start="20210330055800 -0600" stop="20210330070000 -0600" channel="47 | FXM">
+  <programme start="20210330055800 -0600" stop="20210330070000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20210330070000 -0600" stop="20210330091500 -0600" channel="47 | FXM">
+  <programme start="20210330070000 -0600" stop="20210330091500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dos Semanas</title>
   </programme>
-  <programme start="20210330091500 -0600" stop="20210330111100 -0600" channel="47 | FXM">
+  <programme start="20210330091500 -0600" stop="20210330111100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La Familia de Mi Novia</title>
   </programme>
-  <programme start="20210330111100 -0600" stop="20210330125500 -0600" channel="47 | FXM">
+  <programme start="20210330111100 -0600" stop="20210330125500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Red cazadora de hombres lobo</title>
   </programme>
-  <programme start="20210330125500 -0600" stop="20210330150800 -0600" channel="47 | FXM">
+  <programme start="20210330125500 -0600" stop="20210330150800 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Indiana Jones y el reino</title>
   </programme>
-  <programme start="20210330150800 -0600" stop="20210330170900 -0600" channel="47 | FXM">
+  <programme start="20210330150800 -0600" stop="20210330170900 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La Familia de Mi Novia</title>
   </programme>
-  <programme start="20210330170900 -0600" stop="20210330191600 -0600" channel="47 | FXM">
+  <programme start="20210330170900 -0600" stop="20210330191600 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Los Fockers La familia de</title>
   </programme>
-  <programme start="20210330191600 -0600" stop="20210330210000 -0600" channel="47 | FXM">
+  <programme start="20210330191600 -0600" stop="20210330210000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Los Pequeños Focker</title>
   </programme>
-  <programme start="20210330210000 -0600" stop="20210330231100 -0600" channel="47 | FXM">
+  <programme start="20210330210000 -0600" stop="20210330231100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Eternamente comprometidos</title>
   </programme>
-  <programme start="20210330231100 -0600" stop="20210331012100 -0600" channel="47 | FXM">
+  <programme start="20210330231100 -0600" stop="20210331012100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Doom La Puerta al Infierno</title>
   </programme>
-  <programme start="20210331231100 -0600" stop="20210401012100 -0600" channel="47 | FXM">
+  <programme start="20210331231100 -0600" stop="20210401012100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Doom La Puerta al Infierno</title>
   </programme>
-  <programme start="20210401012100 -0600" stop="20210401031500 -0600" channel="47 | FXM">
+  <programme start="20210401012100 -0600" stop="20210401031500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Cementerio de animales</title>
   </programme>
-  <programme start="20210401031500 -0600" stop="20210401045500 -0600" channel="47 | FXM">
+  <programme start="20210401031500 -0600" stop="20210401045500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Código nuclear</title>
   </programme>
-  <programme start="20210401045500 -0600" stop="20210401070000 -0600" channel="47 | FXM">
+  <programme start="20210401045500 -0600" stop="20210401070000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">R.L. Stine's mostly ghostly 3</title>
   </programme>
-  <programme start="20210401070000 -0600" stop="20210401082200 -0600" channel="47 | FXM">
+  <programme start="20210401070000 -0600" stop="20210401082200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dam Sharks</title>
   </programme>
-  <programme start="20210401082200 -0600" stop="20210401101000 -0600" channel="47 | FXM">
+  <programme start="20210401082200 -0600" stop="20210401101000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La muerte le sienta bien</title>
   </programme>
-  <programme start="20210401101000 -0600" stop="20210401114400 -0600" channel="47 | FXM">
+  <programme start="20210401101000 -0600" stop="20210401114400 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Mi Amigo Paulie</title>
   </programme>
-  <programme start="20210401114400 -0600" stop="20210401135200 -0600" channel="47 | FXM">
+  <programme start="20210401114400 -0600" stop="20210401135200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Los Fockers La familia de</title>
   </programme>
-  <programme start="20210401135200 -0600" stop="20210401154000 -0600" channel="47 | FXM">
+  <programme start="20210401135200 -0600" stop="20210401154000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La Nave de la Muerte</title>
   </programme>
-  <programme start="20210401154000 -0600" stop="20210401172500 -0600" channel="47 | FXM">
+  <programme start="20210401154000 -0600" stop="20210401172500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">No te metas con Zohan</title>
   </programme>
-  <programme start="20210401172500 -0600" stop="20210401190800 -0600" channel="47 | FXM">
+  <programme start="20210401172500 -0600" stop="20210401190800 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La bala del asesino</title>
   </programme>
-  <programme start="20210401190800 -0600" stop="20210401210000 -0600" channel="47 | FXM">
+  <programme start="20210401190800 -0600" stop="20210401210000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La señal</title>
   </programme>
-  <programme start="20210401210000 -0600" stop="20210401223400 -0600" channel="47 | FXM">
+  <programme start="20210401210000 -0600" stop="20210401223400 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Actividad paranormal 3</title>
   </programme>
-  <programme start="20210401223400 -0600" stop="20210402005000 -0600" channel="47 | FXM">
+  <programme start="20210401223400 -0600" stop="20210402005000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dragón Rojo</title>
   </programme>
-  <programme start="20210402223400 -0600" stop="20210403005000 -0600" channel="47 | FXM">
+  <programme start="20210402223400 -0600" stop="20210403005000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dragón Rojo</title>
   </programme>
-  <programme start="20210403005000 -0600" stop="20210403024200 -0600" channel="47 | FXM">
+  <programme start="20210403005000 -0600" stop="20210403024200 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Nadie Vive Demasiado</title>
   </programme>
-  <programme start="20210403024200 -0600" stop="20210403044100 -0600" channel="47 | FXM">
+  <programme start="20210403024200 -0600" stop="20210403044100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Arañas 3D</title>
   </programme>
-  <programme start="20210403044100 -0600" stop="20210403070000 -0600" channel="47 | FXM">
+  <programme start="20210403044100 -0600" stop="20210403070000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Querido Dios</title>
   </programme>
-  <programme start="20210403070000 -0600" stop="20210403082100 -0600" channel="47 | FXM">
+  <programme start="20210403070000 -0600" stop="20210403082100 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Virus Mortal</title>
   </programme>
-  <programme start="20210403082100 -0600" stop="20210403095900 -0600" channel="47 | FXM">
+  <programme start="20210403082100 -0600" stop="20210403095900 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Dos Semanas</title>
   </programme>
-  <programme start="20210403095900 -0600" stop="20210403113800 -0600" channel="47 | FXM">
+  <programme start="20210403095900 -0600" stop="20210403113800 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La diabla</title>
   </programme>
-  <programme start="20210403113800 -0600" stop="20210403133600 -0600" channel="47 | FXM">
+  <programme start="20210403113800 -0600" stop="20210403133600 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Happy Gilmore</title>
   </programme>
-  <programme start="20210403133600 -0600" stop="20210403153000 -0600" channel="47 | FXM">
+  <programme start="20210403133600 -0600" stop="20210403153000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Daredevil El Hombre Sin Miedo</title>
   </programme>
-  <programme start="20210403153000 -0600" stop="20210403175900 -0600" channel="47 | FXM">
+  <programme start="20210403153000 -0600" stop="20210403175900 -0600" channel="118 | FXM MX UHD">
     <title lang="es">The hulk</title>
   </programme>
-  <programme start="20210403175900 -0600" stop="20210403210000 -0600" channel="47 | FXM">
+  <programme start="20210403175900 -0600" stop="20210403210000 -0600" channel="118 | FXM MX UHD">
     <title lang="es">La delgada línea roja</title>
   </programme>
-  <programme start="20210403210000 -0600" stop="20210403232500 -0600" channel="47 | FXM">
+  <programme start="20210403210000 -0600" stop="20210403232500 -0600" channel="118 | FXM MX UHD">
     <title lang="es">Códigos de guerra</title>
   </programme>
-  <programme start="20210403232500 -0600" stop="20210404015300 -0600" channel="47 | FXM">
+  <programme start="20210403232500 -0600" stop="20210404015300 -0600" channel="118 | FXM MX UHD">
     <title lang="es">K-19 The Widowmaker</title>
   </programme>
-  <programme start="20210404015300 -0600" stop="20210404033200 -0500" channel="47 | FXM">
+  <programme start="20210404015300 -0600" stop="20210404033200 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Terror al anochecer</title>
   </programme>
-  <programme start="20210404033200 -0500" stop="20210404052000 -0500" channel="47 | FXM">
+  <programme start="20210404033200 -0500" stop="20210404052000 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Salvaje Bill</title>
   </programme>
-  <programme start="20210404052000 -0500" stop="20210404074500 -0500" channel="47 | FXM">
+  <programme start="20210404052000 -0500" stop="20210404074500 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Arañas 3D</title>
   </programme>
-  <programme start="20210404074500 -0500" stop="20210404095700 -0500" channel="47 | FXM">
+  <programme start="20210404074500 -0500" stop="20210404095700 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Mi Amigo Paulie</title>
   </programme>
-  <programme start="20210404095700 -0500" stop="20210404115700 -0500" channel="47 | FXM">
+  <programme start="20210404095700 -0500" stop="20210404115700 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Zeus y Roxana</title>
   </programme>
-  <programme start="20210404115700 -0500" stop="20210404134400 -0500" channel="47 | FXM">
+  <programme start="20210404115700 -0500" stop="20210404134400 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Jesus Henry Christ</title>
   </programme>
-  <programme start="20210404134400 -0500" stop="20210404155700 -0500" channel="47 | FXM">
+  <programme start="20210404134400 -0500" stop="20210404155700 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Shakespeare apasionado</title>
   </programme>
-  <programme start="20210404155700 -0500" stop="20210404174000 -0500" channel="47 | FXM">
+  <programme start="20210404155700 -0500" stop="20210404174000 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Halcón</title>
   </programme>
-  <programme start="20210404174000 -0500" stop="20210404191100 -0500" channel="47 | FXM">
+  <programme start="20210404174000 -0500" stop="20210404191100 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Actividad paranormal 3</title>
   </programme>
-  <programme start="20210404191100 -0500" stop="20210404210000 -0500" channel="47 | FXM">
+  <programme start="20210404191100 -0500" stop="20210404210000 -0500" channel="118 | FXM MX UHD">
     <title lang="es">La señal</title>
   </programme>
-  <programme start="20210404210000 -0500" stop="20210404224500 -0500" channel="47 | FXM">
+  <programme start="20210404210000 -0500" stop="20210404224500 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Soldado de la noche</title>
   </programme>
-  <programme start="20210404224500 -0500" stop="20210405004000 -0500" channel="47 | FXM">
+  <programme start="20210404224500 -0500" stop="20210405004000 -0500" channel="118 | FXM MX UHD">
     <title lang="es">Daredevil El Hombre Sin Miedo</title>
   </programme>
   <programme start="20210328014700 -0600" stop="20210328034700 -0600" channel="18 | TNT">
@@ -4364,353 +4739,5 @@
   </programme>
   <programme start="20210404220000 -0600" stop="20210405002800 -0600" channel="18 | TNT">
     <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
-  </programme>
-  <programme start="20210328002500 -0600" stop="20210328025000 -0600" channel="58 | AMC">
-    <title lang="es">Corazones de Hierro (Fury)</title>
-  </programme>
-  <programme start="20210328025000 -0600" stop="20210328043000 -0600" channel="58 | AMC">
-    <title lang="es">Amityville: El Despertar</title>
-  </programme>
-  <programme start="20210328043000 -0600" stop="20210328053000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210328053000 -0600" stop="20210328063000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210328063000 -0600" stop="20210328070000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328070000 -0600" stop="20210328073000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328073000 -0600" stop="20210328080000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328080000 -0600" stop="20210328083000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328083000 -0600" stop="20210328090000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328090000 -0600" stop="20210328093000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328093000 -0600" stop="20210328100000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328100000 -0600" stop="20210328102500 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210328102500 -0600" stop="20210328112500 -0600" channel="58 | AMC">
-    <title lang="es">Films &amp; Stars Of 2020</title>
-  </programme>
-  <programme start="20210328112500 -0600" stop="20210328130500 -0600" channel="58 | AMC">
-    <title lang="es">4 Minutos Para La Gloria</title>
-  </programme>
-  <programme start="20210328130500 -0600" stop="20210328152500 -0600" channel="58 | AMC">
-    <title lang="es">El ataque</title>
-  </programme>
-  <programme start="20210328152500 -0600" stop="20210328175000 -0600" channel="58 | AMC">
-    <title lang="es">Inframundo</title>
-  </programme>
-  <programme start="20210328175000 -0600" stop="20210328201000 -0600" channel="58 | AMC">
-    <title lang="es">El ataque</title>
-  </programme>
-  <programme start="20210328201000 -0600" stop="20210328220000 -0600" channel="58 | AMC">
-    <title lang="es">Rescate del metro 123</title>
-  </programme>
-  <programme start="20210328220000 -0600" stop="20210328235500 -0600" channel="58 | AMC">
-    <title lang="es">Cazando a Bin Laden</title>
-  </programme>
-  <programme start="20210328235500 -0600" stop="20210329014000 -0600" channel="58 | AMC">
-    <title lang="es">La hija de Dios</title>
-  </programme>
-  <programme start="20210329014000 -0600" stop="20210329033000 -0600" channel="58 | AMC">
-    <title lang="es">Un pasado infernal</title>
-  </programme>
-  <programme start="20210329033000 -0600" stop="20210329043000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210329043000 -0600" stop="20210329053000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210329053000 -0600" stop="20210329060000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210329060000 -0600" stop="20210329063000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210329063000 -0600" stop="20210329070000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210329070000 -0600" stop="20210329073000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329073000 -0600" stop="20210329080000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329080000 -0600" stop="20210329083000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329083000 -0600" stop="20210329090000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329090000 -0600" stop="20210329093000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329093000 -0600" stop="20210329100000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210329100000 -0600" stop="20210329120000 -0600" channel="58 | AMC">
-    <title lang="es">Whip It</title>
-  </programme>
-  <programme start="20210329120000 -0600" stop="20210329134500 -0600" channel="58 | AMC">
-    <title lang="es">Bienvenido a la jungla</title>
-  </programme>
-  <programme start="20210329134500 -0600" stop="20210329153500 -0600" channel="58 | AMC">
-    <title lang="es">Vivir Entre Fuegos</title>
-  </programme>
-  <programme start="20210329153500 -0600" stop="20210329172000 -0600" channel="58 | AMC">
-    <title lang="es">La señal</title>
-  </programme>
-  <programme start="20210329172000 -0600" stop="20210329191000 -0600" channel="58 | AMC">
-    <title lang="es">Rescate del metro 123</title>
-  </programme>
-  <programme start="20210329191000 -0600" stop="20210329210500 -0600" channel="58 | AMC">
-    <title lang="es">El Transportador 3</title>
-  </programme>
-  <programme start="20210329210500 -0600" stop="20210329230000 -0600" channel="58 | AMC">
-    <title lang="es">El caza recompensas</title>
-  </programme>
-  <programme start="20210329230000 -0600" stop="20210330000000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210330000000 -0600" stop="20210330013500 -0600" channel="58 | AMC">
-    <title lang="es">Amityville: El Despertar</title>
-  </programme>
-  <programme start="20210330013500 -0600" stop="20210330033500 -0600" channel="58 | AMC">
-    <title lang="es">Magic Mike</title>
-  </programme>
-  <programme start="20210330033500 -0600" stop="20210330043500 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210330043500 -0600" stop="20210330053500 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210330053500 -0600" stop="20210330060000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210330100000 -0600" stop="20210330103000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210330103000 -0600" stop="20210330122500 -0600" channel="58 | AMC">
-    <title lang="es">My Own Love Song</title>
-  </programme>
-  <programme start="20210330122500 -0600" stop="20210330143000 -0600" channel="58 | AMC">
-    <title lang="es">Un Lugar Donde Refugiarse</title>
-  </programme>
-  <programme start="20210330143000 -0600" stop="20210330162500 -0600" channel="58 | AMC">
-    <title lang="es">Asesinos</title>
-  </programme>
-  <programme start="20210330162500 -0600" stop="20210330181500 -0600" channel="58 | AMC">
-    <title lang="es">Centurión</title>
-  </programme>
-  <programme start="20210330181500 -0600" stop="20210330202000 -0600" channel="58 | AMC">
-    <title lang="es">Agente internacional</title>
-  </programme>
-  <programme start="20210330202000 -0600" stop="20210330220000 -0600" channel="58 | AMC">
-    <title lang="es">Asesinos con estilo</title>
-  </programme>
-  <programme start="20210330220000 -0600" stop="20210331000000 -0600" channel="58 | AMC">
-    <title lang="es">Magic Mike</title>
-  </programme>
-  <programme start="20210331000000 -0600" stop="20210331022500 -0600" channel="58 | AMC">
-    <title lang="es">El Justiciero (The Equalizer)</title>
-  </programme>
-  <programme start="20210331022500 -0600" stop="20210331043000 -0600" channel="58 | AMC">
-    <title lang="es">Un Lugar Donde Refugiarse</title>
-  </programme>
-  <programme start="20210331043000 -0600" stop="20210331053000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210331053000 -0600" stop="20210331063000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210331063000 -0600" stop="20210331070000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210331093000 -0600" stop="20210331103000 -0600" channel="58 | AMC">
-    <title lang="es">Films &amp; Stars Of 2020</title>
-  </programme>
-  <programme start="20210331103000 -0600" stop="20210331122500 -0600" channel="58 | AMC">
-    <title lang="es">Espejito, Espejito</title>
-  </programme>
-  <programme start="20210331122500 -0600" stop="20210331141500 -0600" channel="58 | AMC">
-    <title lang="es">Pompeii La furia del volcán</title>
-  </programme>
-  <programme start="20210331141500 -0600" stop="20210331160000 -0600" channel="58 | AMC">
-    <title lang="es">Bienvenido a la jungla</title>
-  </programme>
-  <programme start="20210331160000 -0600" stop="20210331180500 -0600" channel="58 | AMC">
-    <title lang="es">Aguas profundas</title>
-  </programme>
-  <programme start="20210331180500 -0600" stop="20210331200500 -0600" channel="58 | AMC">
-    <title lang="es">RoboCop</title>
-  </programme>
-  <programme start="20210331200500 -0600" stop="20210331220000 -0600" channel="58 | AMC">
-    <title lang="es">El caza recompensas</title>
-  </programme>
-  <programme start="20210331220000 -0600" stop="20210401001500 -0600" channel="58 | AMC">
-    <title lang="es">Punto límite</title>
-  </programme>
-  <programme start="20210401220000 -0600" stop="20210402001500 -0600" channel="58 | AMC">
-    <title lang="es">Punto límite</title>
-  </programme>
-  <programme start="20210402001500 -0600" stop="20210402020000 -0600" channel="58 | AMC">
-    <title lang="es">La hija de Dios</title>
-  </programme>
-  <programme start="20210402020000 -0600" stop="20210402033500 -0600" channel="58 | AMC">
-    <title lang="es">Amityville: El Despertar</title>
-  </programme>
-  <programme start="20210402033500 -0600" stop="20210402043500 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210402043500 -0600" stop="20210402053500 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210402053500 -0600" stop="20210402060000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402060000 -0600" stop="20210402063000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210402070000 -0600" stop="20210402073000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402073000 -0600" stop="20210402080000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402080000 -0600" stop="20210402083000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402083000 -0600" stop="20210402090000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402090000 -0600" stop="20210402093000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402093000 -0600" stop="20210402100000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402100000 -0600" stop="20210402103000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402103000 -0600" stop="20210402105500 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210402105500 -0600" stop="20210402130500 -0600" channel="58 | AMC">
-    <title lang="es">La huésped</title>
-  </programme>
-  <programme start="20210402130500 -0600" stop="20210402145500 -0600" channel="58 | AMC">
-    <title lang="es">Vivir Entre Fuegos</title>
-  </programme>
-  <programme start="20210402145500 -0600" stop="20210402170000 -0600" channel="58 | AMC">
-    <title lang="es">Un Lugar Donde Refugiarse</title>
-  </programme>
-  <programme start="20210402170000 -0600" stop="20210402190000 -0600" channel="58 | AMC">
-    <title lang="es">Whip It</title>
-  </programme>
-  <programme start="20210402190000 -0600" stop="20210402202500 -0600" channel="58 | AMC">
-    <title lang="es">7500</title>
-  </programme>
-  <programme start="20210402202500 -0600" stop="20210402220000 -0600" channel="58 | AMC">
-    <title lang="es">Amenaza roja</title>
-  </programme>
-  <programme start="20210402220000 -0600" stop="20210403000000 -0600" channel="58 | AMC">
-    <title lang="es">RoboCop</title>
-  </programme>
-  <programme start="20210403000000 -0600" stop="20210403021500 -0600" channel="58 | AMC">
-    <title lang="es">Punto límite</title>
-  </programme>
-  <programme start="20210403021500 -0600" stop="20210403042500 -0600" channel="58 | AMC">
-    <title lang="es">El Coleccionista De Huesos</title>
-  </programme>
-  <programme start="20210403042500 -0600" stop="20210403052000 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210403052000 -0600" stop="20210403061500 -0600" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210403061500 -0600" stop="20210403064000 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210403064000 -0600" stop="20210403070500 -0600" channel="58 | AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-  <programme start="20210403070500 -0600" stop="20210403073000 -0600" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210403103000 -0600" stop="20210403123500 -0600" channel="58 | AMC">
-    <title lang="es">Whip It</title>
-  </programme>
-  <programme start="20210403123500 -0600" stop="20210403144000 -0600" channel="58 | AMC">
-    <title lang="es">Un Lugar Donde Refugiarse</title>
-  </programme>
-  <programme start="20210403144000 -0600" stop="20210403162500 -0600" channel="58 | AMC">
-    <title lang="es">Odd Thomas</title>
-  </programme>
-  <programme start="20210403162500 -0600" stop="20210403183000 -0600" channel="58 | AMC">
-    <title lang="es">RoboCop</title>
-  </programme>
-  <programme start="20210403183000 -0600" stop="20210403202000 -0600" channel="58 | AMC">
-    <title lang="es">El Transportador 3</title>
-  </programme>
-  <programme start="20210403202000 -0600" stop="20210403220000 -0600" channel="58 | AMC">
-    <title lang="es">La señal</title>
-  </programme>
-  <programme start="20210403220000 -0600" stop="20210403234500 -0600" channel="58 | AMC">
-    <title lang="es">Blitz</title>
-  </programme>
-  <programme start="20210403234500 -0600" stop="20210404015000 -0600" channel="58 | AMC">
-    <title lang="es">El Coleccionista De Huesos</title>
-  </programme>
-  <programme start="20210404015000 -0600" stop="20210404040000 -0500" channel="58 | AMC">
-    <title lang="es">La huésped</title>
-  </programme>
-  <programme start="20210404040000 -0500" stop="20210404050000 -0500" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210404050000 -0500" stop="20210404060000 -0500" channel="58 | AMC">
-    <title lang="es">Fear the Walking Dead</title>
-  </programme>
-  <programme start="20210404060000 -0500" stop="20210404063000 -0500" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210404063000 -0500" stop="20210404070000 -0500" channel="58 | AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20210404100000 -0500" stop="20210404121000 -0500" channel="58 | AMC">
-    <title lang="es">El lado luminoso de la vida</title>
-  </programme>
-  <programme start="20210404121000 -0500" stop="20210404143500 -0500" channel="58 | AMC">
-    <title lang="es">Hombre de Familia</title>
-  </programme>
-  <programme start="20210404143500 -0500" stop="20210404163000 -0500" channel="58 | AMC">
-    <title lang="es">Pompeii La furia del volcán</title>
-  </programme>
-  <programme start="20210404163000 -0500" stop="20210404181500 -0500" channel="58 | AMC">
-    <title lang="es">La señal</title>
-  </programme>
-  <programme start="20210404181500 -0500" stop="20210404195500 -0500" channel="58 | AMC">
-    <title lang="es">El desterrado</title>
-  </programme>
-  <programme start="20210404195500 -0500" stop="20210404220000 -0500" channel="58 | AMC">
-    <title lang="es">Agente internacional</title>
-  </programme>
-  <programme start="20210404220000 -0500" stop="20210404233500 -0500" channel="58 | AMC">
-    <title lang="es">Puntos de vista</title>
-  </programme>
-  <programme start="20210404233500 -0500" stop="20210405011000 -0500" channel="58 | AMC">
-    <title lang="es">Amenaza roja</title>
   </programme>
 </tv>
