@@ -4,8 +4,8 @@
     <display-name lang="es">01 | STAR CHANNEL</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="02 | STAR ACTION ">
-    <display-name lang="es">02 | STAR ACTION </display-name>
+  <channel id="22 | STAR ACTION UHD">
+    <display-name lang="es">22 | STAR ACTION UHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20210328000700 -0600" stop="20210328020600 -0600" channel="01 | STAR CHANNEL">
@@ -320,240 +320,240 @@
   <programme start="20210401175000 -0600" stop="20210401200000 -0600" channel="01 | STAR CHANNEL">
     <title lang="es">Yo soy Simón</title>
   </programme>
-  <programme start="20210328003500 -0600" stop="20210328021700 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328003500 -0600" stop="20210328021700 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Código Sombra Jack Ryan</title>
   </programme>
-  <programme start="20210328021700 -0600" stop="20210328042200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328021700 -0600" stop="20210328042200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Chicas Armadas y Peligrosas</title>
   </programme>
-  <programme start="20210328042200 -0600" stop="20210328063600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328042200 -0600" stop="20210328063600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">El Vuelo</title>
   </programme>
-  <programme start="20210328063600 -0600" stop="20210328083000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328063600 -0600" stop="20210328083000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Control Total</title>
   </programme>
-  <programme start="20210328083000 -0600" stop="20210328090000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328083000 -0600" stop="20210328090000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Previa Gran Premio de Baréin</title>
   </programme>
-  <programme start="20210328090000 -0600" stop="20210328110100 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328090000 -0600" stop="20210328110100 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Gran Premio de Baréin</title>
   </programme>
-  <programme start="20210328110100 -0600" stop="20210328124200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328110100 -0600" stop="20210328124200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Código Sombra Jack Ryan</title>
   </programme>
-  <programme start="20210328124200 -0600" stop="20210328145100 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328124200 -0600" stop="20210328145100 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de matar</title>
   </programme>
-  <programme start="20210328145100 -0600" stop="20210328165000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328145100 -0600" stop="20210328165000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de Matar 2</title>
   </programme>
-  <programme start="20210328165000 -0600" stop="20210328185400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328165000 -0600" stop="20210328185400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de matar 3</title>
   </programme>
-  <programme start="20210328185400 -0600" stop="20210328211700 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328185400 -0600" stop="20210328211700 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de Matar 4.0</title>
   </programme>
-  <programme start="20210328211700 -0600" stop="20210328224500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328211700 -0600" stop="20210328224500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">A sangre fría</title>
   </programme>
-  <programme start="20210328224500 -0600" stop="20210329001900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210328224500 -0600" stop="20210329001900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Encubrimiento</title>
   </programme>
-  <programme start="20210329224500 -0600" stop="20210330001900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210329224500 -0600" stop="20210330001900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Encubrimiento</title>
   </programme>
-  <programme start="20210330001900 -0600" stop="20210330020000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330001900 -0600" stop="20210330020000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Araña</title>
   </programme>
-  <programme start="20210330020000 -0600" stop="20210330034600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330020000 -0600" stop="20210330034600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Escupiré sobre tu tumba 2</title>
   </programme>
-  <programme start="20210330034600 -0600" stop="20210330053600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330034600 -0600" stop="20210330053600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Toma la pelota y pásala</title>
   </programme>
-  <programme start="20210330053600 -0600" stop="20210330071200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330053600 -0600" stop="20210330071200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Glass Houses</title>
   </programme>
-  <programme start="20210330071200 -0600" stop="20210330085100 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330071200 -0600" stop="20210330085100 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Within These Walls</title>
   </programme>
-  <programme start="20210330085100 -0600" stop="20210330103300 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330085100 -0600" stop="20210330103300 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Rampart</title>
   </programme>
-  <programme start="20210330103300 -0600" stop="20210330122400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330103300 -0600" stop="20210330122400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Azul Extremo</title>
   </programme>
-  <programme start="20210330122400 -0600" stop="20210330141800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330122400 -0600" stop="20210330141800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Brigada A: Los magníficos</title>
   </programme>
-  <programme start="20210330141800 -0600" stop="20210330155600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330141800 -0600" stop="20210330155600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Cementerio maldito</title>
   </programme>
-  <programme start="20210330155600 -0600" stop="20210330172800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330155600 -0600" stop="20210330172800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Siete Minutos</title>
   </programme>
-  <programme start="20210330172800 -0600" stop="20210330190000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330172800 -0600" stop="20210330190000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Amenaza en lo Profundo</title>
   </programme>
-  <programme start="20210330190000 -0600" stop="20210330202900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330190000 -0600" stop="20210330202900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Cercana obsesión</title>
   </programme>
-  <programme start="20210330202900 -0600" stop="20210330222400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330202900 -0600" stop="20210330222400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Sr. y Sra. Smith</title>
   </programme>
-  <programme start="20210330222400 -0600" stop="20210331000200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210330222400 -0600" stop="20210331000200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Drive acción máxima velocidad</title>
   </programme>
-  <programme start="20210331000200 -0600" stop="20210331014200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331000200 -0600" stop="20210331014200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">RoboCop</title>
   </programme>
-  <programme start="20210331014200 -0600" stop="20210331040800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331014200 -0600" stop="20210331040800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Imparable</title>
   </programme>
-  <programme start="20210331040800 -0600" stop="20210331053700 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331040800 -0600" stop="20210331053700 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Asesino de modelos</title>
   </programme>
-  <programme start="20210331053700 -0600" stop="20210331070900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331053700 -0600" stop="20210331070900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Los misterios de Emma Fielding</title>
   </programme>
-  <programme start="20210331070900 -0600" stop="20210331084000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331070900 -0600" stop="20210331084000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">No Good Deed</title>
   </programme>
-  <programme start="20210331084000 -0600" stop="20210331102600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331084000 -0600" stop="20210331102600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Escupiré sobre tu tumba 2</title>
   </programme>
-  <programme start="20210331102600 -0600" stop="20210331120300 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331102600 -0600" stop="20210331120300 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">El Fantasma</title>
   </programme>
-  <programme start="20210331120300 -0600" stop="20210331135500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331120300 -0600" stop="20210331135500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Telaraña de mentiras</title>
   </programme>
-  <programme start="20210331135500 -0600" stop="20210331154400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331135500 -0600" stop="20210331154400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">12 Desafíos</title>
   </programme>
-  <programme start="20210331154400 -0600" stop="20210331171200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331154400 -0600" stop="20210331171200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Búsqueda implacable 2</title>
   </programme>
-  <programme start="20210331171200 -0600" stop="20210331190000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331171200 -0600" stop="20210331190000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Búsqueda Implacable 3</title>
   </programme>
-  <programme start="20210331190000 -0600" stop="20210331204600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331190000 -0600" stop="20210331204600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Máquinas Mortales</title>
   </programme>
-  <programme start="20210331204600 -0600" stop="20210331224000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331204600 -0600" stop="20210331224000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Brigada A: Los magníficos</title>
   </programme>
-  <programme start="20210331224000 -0600" stop="20210401000500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210331224000 -0600" stop="20210401000500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Escuadrón de la muerte</title>
   </programme>
-  <programme start="20210401000500 -0600" stop="20210401014600 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401000500 -0600" stop="20210401014600 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Araña</title>
   </programme>
-  <programme start="20210401014600 -0600" stop="20210401040700 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401014600 -0600" stop="20210401040700 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">El ojo del mal</title>
   </programme>
-  <programme start="20210401040700 -0600" stop="20210401053400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401040700 -0600" stop="20210401053400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Supremacía robot</title>
   </programme>
-  <programme start="20210401053400 -0600" stop="20210401085300 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401053400 -0600" stop="20210401085300 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Within These Walls</title>
   </programme>
-  <programme start="20210401085300 -0600" stop="20210401104100 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401085300 -0600" stop="20210401104100 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">12 Desafíos</title>
   </programme>
-  <programme start="20210401104100 -0600" stop="20210401121400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401104100 -0600" stop="20210401121400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Siete Minutos</title>
   </programme>
-  <programme start="20210401121400 -0600" stop="20210401135400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401121400 -0600" stop="20210401135400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Cementerio maldito</title>
   </programme>
-  <programme start="20210401135400 -0600" stop="20210401154000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401135400 -0600" stop="20210401154000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Alien resurrección</title>
   </programme>
-  <programme start="20210401154000 -0600" stop="20210401170900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401154000 -0600" stop="20210401170900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">A sangre fría</title>
   </programme>
-  <programme start="20210401170900 -0600" stop="20210401190000 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401170900 -0600" stop="20210401190000 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Guerra Mundial Z</title>
   </programme>
-  <programme start="20210401190000 -0600" stop="20210401211800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401190000 -0600" stop="20210401211800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">El club de la pelea</title>
   </programme>
-  <programme start="20210401211800 -0600" stop="20210401234900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401211800 -0600" stop="20210401234900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Bastardos sin gloria</title>
   </programme>
-  <programme start="20210401234900 -0600" stop="20210402012500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210401234900 -0600" stop="20210402012500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Upgrade</title>
   </programme>
-  <programme start="20210402234900 -0600" stop="20210403012500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210402234900 -0600" stop="20210403012500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Upgrade</title>
   </programme>
-  <programme start="20210403012500 -0600" stop="20210403042200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403012500 -0600" stop="20210403042200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Amenaza en lo Profundo</title>
   </programme>
-  <programme start="20210403042200 -0600" stop="20210403061400 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403042200 -0600" stop="20210403061400 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">El efecto sombra</title>
   </programme>
-  <programme start="20210403061400 -0600" stop="20210403082500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403061400 -0600" stop="20210403082500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de matar</title>
   </programme>
-  <programme start="20210403082500 -0600" stop="20210403102500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403082500 -0600" stop="20210403102500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de Matar 2</title>
   </programme>
-  <programme start="20210403102500 -0600" stop="20210403123100 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403102500 -0600" stop="20210403123100 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de matar 3</title>
   </programme>
-  <programme start="20210403123100 -0600" stop="20210403144800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403123100 -0600" stop="20210403144800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Duro de Matar 4.0</title>
   </programme>
-  <programme start="20210403144800 -0600" stop="20210403162800 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403144800 -0600" stop="20210403162800 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Rambo: Last Blood</title>
   </programme>
-  <programme start="20210403162800 -0600" stop="20210403210900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403162800 -0600" stop="20210403210900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Gladiador</title>
   </programme>
-  <programme start="20210403210900 -0600" stop="20210403230500 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403210900 -0600" stop="20210403230500 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Jack Reacher: Sin regreso</title>
   </programme>
-  <programme start="20210403230500 -0600" stop="20210404003200 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210403230500 -0600" stop="20210404003200 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Búsqueda implacable 2</title>
   </programme>
-  <programme start="20210404003200 -0600" stop="20210404015900 -0600" channel="02 | STAR ACTION ">
+  <programme start="20210404003200 -0600" stop="20210404015900 -0600" channel="22 | STAR ACTION UHD">
     <title lang="es">Búsqueda Implacable 3</title>
     <desc lang="es">-- Changed stoptime! --.(n)</desc>
   </programme>
-  <programme start="20210404030000 -0500" stop="20210404040000 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404030000 -0500" stop="20210404040000 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">12 Desafíos</title>
     <desc lang="es">-- Changed starttime! --.(n)</desc>
   </programme>
-  <programme start="20210404040000 -0500" stop="20210404053800 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404040000 -0500" stop="20210404053800 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">American Muscle</title>
   </programme>
-  <programme start="20210404053800 -0500" stop="20210404070600 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404053800 -0500" stop="20210404070600 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Supremacía robot</title>
   </programme>
-  <programme start="20210404070600 -0500" stop="20210404090000 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404070600 -0500" stop="20210404090000 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Guerra Mundial Z</title>
   </programme>
-  <programme start="20210404090000 -0500" stop="20210404105200 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404090000 -0500" stop="20210404105200 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Máquinas Mortales</title>
   </programme>
-  <programme start="20210404105200 -0500" stop="20210404142900 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404105200 -0500" stop="20210404142900 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Chicas Armadas y Peligrosas</title>
   </programme>
-  <programme start="20210404142900 -0500" stop="20210404162600 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404142900 -0500" stop="20210404162600 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Control Total</title>
   </programme>
-  <programme start="20210404162600 -0500" stop="20210404190000 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404162600 -0500" stop="20210404190000 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Bastardos sin gloria</title>
   </programme>
-  <programme start="20210404190000 -0500" stop="20210404213100 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404190000 -0500" stop="20210404213100 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Gánster Americano</title>
   </programme>
-  <programme start="20210404213100 -0500" stop="20210404234500 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404213100 -0500" stop="20210404234500 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Robin Hood</title>
   </programme>
-  <programme start="20210404234500 -0500" stop="20210405012200 -0500" channel="02 | STAR ACTION ">
+  <programme start="20210404234500 -0500" stop="20210405012200 -0500" channel="22 | STAR ACTION UHD">
     <title lang="es">Rambo: Last Blood</title>
   </programme>
 </tv>
